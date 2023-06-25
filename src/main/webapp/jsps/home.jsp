@@ -12,7 +12,7 @@
 <h1 align="center">Welcome to Landmark Technologies.</h1>
 <h2 align="center"> We are supporting the Ebay Black Friday Project.
 	Landmark Technologies is a software development company. 
-	Class26 will produce world class techies.
+	Class HONORS will produce WORLD CLASS techies.
 	DEDICATION,COMMITMENT AND HARDWORK IS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
